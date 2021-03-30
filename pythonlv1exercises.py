@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-EDIT PYTHON LEVEL 1 EXERCISES
+EDIT PYTHON LEVEL 1 EXERCISES - PART 1
 
 """
 
