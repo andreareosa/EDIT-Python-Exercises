@@ -9,7 +9,7 @@ The exercises template always include the questions and the solutions.
 
 ## Python - Functions
 
-Create a .py file with two functions:
+Create a [.py file](https://github.com/andreareosa/EDIT-Python-Exercises/blob/main/homework_1.py) with two functions:
 - One that receives a list with numbers and returns the biggest.
 - Other that receives a list of numbers and returns the same list without the smallest.
 
